@@ -1,0 +1,32 @@
+body{
+	background-color:#f3d;
+	color:white;
+	
+}
+h1{
+	background-color:brown;
+	border-radius:20px;
+	padding:50px;
+	text-align: center;
+}
+pre{
+	color:darkgreen;
+}
+p{
+	width:200px;
+	height:150px;
+	border:solid;
+	margin:25px;
+	
+}
+#uno{
+	background-color:blue;
+	float:right;
+}
+#dos{
+	background-color:red;
+	float:left;
+}
+pre{
+	clear:both;
+}
